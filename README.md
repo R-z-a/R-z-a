@@ -1,5 +1,5 @@
 # Razan
-<h1 align="center">Hi 👋, I'm Roz</h1>
+<h1 align="center">Hi 👋, I'm Razan</h1>
 <h3 align="center">A passionate frontend developer from Saudi</h3>
 
 
